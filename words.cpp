@@ -33,3 +33,16 @@ int main()
      printf("Total number of characters : %d\n",characters);
     return 0;
 }
+
+output:
+void main()
+{
+int a;
+int b;
+a=b+c;
+c=d*e;
+}
+^Z
+Total number of words : 11
+Total number of lines : 8
+Total number of characters : 34
