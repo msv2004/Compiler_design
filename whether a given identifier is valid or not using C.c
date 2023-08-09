@@ -22,3 +22,10 @@ int main()
 		printf("\n Valid identifier"); 
 }
 
+output:
+Enter the identifier:
+abc
+it is a valid identifier
+Enter the identifier:
+$abc
+it is not a valid identifier
