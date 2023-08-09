@@ -33,3 +33,13 @@ int main()
 				printf("\n it is not a comment");
 			}
 
+output:
+Enter the comment:
+//*hello*//
+it is a comment
+Enter the comment:
+hello
+it is not a comment
+Enter the comment:
+//*hello*//
+it is a comment
