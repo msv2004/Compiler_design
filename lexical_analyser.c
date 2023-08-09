@@ -60,3 +60,10 @@ int main() {
 		printf("%c",operators[j]);
 	}
 }
+
+input:
+enter the string:a=b+c*100
+output:
+identifiers:abc
+ constants:100
+ operators::=+*
